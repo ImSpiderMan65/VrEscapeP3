@@ -80,6 +80,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
 --- !u!1 &3162867022280216862
 GameObject:
   m_ObjectHideFlags: 0
@@ -124,7 +125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20b7e03bf609f394f9f4d59287f6e228, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Database: {fileID: 11400000, guid: b1268527e8a2f8d48b3959ed0a30f996, type: 2}
+  Database: {fileID: 11400000, guid: 5156e08362391cc449607b6bf018ce87, type: 2}
   IndicatorCanvas: {fileID: 2335717657215025702}
   IndicatorPrefab: {fileID: 4081676712260673363, guid: e391440c91e82f8459029f1bce8f6fc2,
     type: 3}
